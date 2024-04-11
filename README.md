@@ -4,10 +4,7 @@ Heart Disease Prediction using ML and Python .This project involved analysis of 
 Machine Learning algorithms used:
 
 Logistic Regression (Scikit-learn)
-
-Naive Bayes (Scikit-learn)
-
-Support Vector Machine (Linear) (Scikit-learn)
-K-Nearest Neighbours (Scikit-learn)
-Decision Tree (Scikit-learn)
-Random Forest (Scikit-learn)
+Support Vector Machine
+K-Nearest Neighbours
+Decision Tree
+Random Forest
